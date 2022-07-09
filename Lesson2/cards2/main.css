@@ -1,0 +1,114 @@
+.featuredServices{
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*background: peachpuff;*/
+}
+.fa-star{
+    font-size: 40px;
+}
+.fa-location-dot{
+    font-size: 40px;
+}
+.fa-fire-flame-curved{
+    font-size: 40px;
+}
+.fa-earth-americas{
+    font-size: 40px;
+}
+
+button{
+    width: 80px;
+    height: 40px;
+    background:darkseagreen ;
+
+}
+h2{
+    color: firebrick;
+    text-align: center;
+}
+p{
+    color: grey;
+    text-align: justify;
+    padding: 20px 20px 20px 20px;
+}
+.service1{
+    width: 200px;
+    border: 1px solid grey;
+}
+
+.icon1{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.button-service1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.service2{
+
+    width: 200px;
+    border: 1px solid grey;
+}
+
+.icon2{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+.button-service2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.service3{
+    width: 200px;
+    border: 1px solid grey;
+
+}
+.icon3{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-service3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.service4{
+    width: 200px;
+    border: 1px solid grey;
+}
+
+.icon4{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-service4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
