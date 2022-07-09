@@ -1,0 +1,89 @@
+.containerCards1{
+
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 1300px;
+    padding-top: 200px;
+}
+button{
+    border: 1px solid grey ;
+    width: 200px;
+    height: 50px;
+}
+
+.responsiveDesign{
+    border: 2px solid grey;
+    height: 400px;
+    width: 400px;
+    box-sizing: border-box;
+}
+    .descr-responsivedesign>h2{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+    .descr-responsivedesign>p{
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: grey;
+}
+    .button-respons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+
+.userInterfaceDesign{
+    border: 2px solid grey;
+    height: 400px;
+    width: 400px;
+    box-sizing: border-box;
+}
+    .descr-userInterfaceDesign>h2{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+    .descr-userInterfaceDesign>p {
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: grey;
+}
+    .button-user-interface{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+
+.webDevelopment{
+    border: 2px solid grey;
+    height: 400px;
+    width: 400px;
+    box-sizing: border-box;
+}
+    .descr-webDevelopment>h2{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+    .descr-webDevelopment>p {
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: grey;
+}
+    .button-web-development{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}

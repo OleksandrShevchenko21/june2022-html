@@ -1,0 +1,75 @@
+.container{
+    /*background: silver;*/
+    width: 600px;
+    box-sizing: border-box;
+    margin: auto;
+
+
+}
+
+.target1{
+    background: blue;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .target1>h1 {
+    color: white;
+}
+
+.target2{
+    height:200px;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+    .target21{
+    background: #033d8b;
+    width: 250px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+        .target21>h2{
+    color: white;
+    text-align: center;
+}
+
+    .target22 {
+    background: #033d8b;
+    width: 250px;
+    margin-right: 50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+        .target22>h2{
+        color: white;
+    }
+
+    .target23 {
+    background: #033d8b;
+    width: 250px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+        .target23>h2{
+        color: white;
+    }
+
+.target3 {
+    background: yellow;
+    height: 400px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .target3>h1{
+        color: white;
+    }

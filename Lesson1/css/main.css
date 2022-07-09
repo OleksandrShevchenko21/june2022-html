@@ -1,0 +1,25 @@
+p {
+  color: blue;
+  background: yellow;
+}
+h1{
+  color: red;
+  background: black;
+}
+h2 {
+  color: red;
+  background: blue;
+}
+h3 {
+  color: black;
+  background: green;
+}
+li {
+  color: white;
+  background: blue;
+}
+a {
+  color: red;
+  background: black;
+}
+
