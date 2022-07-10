@@ -1,0 +1,121 @@
+.main-container-cards3{
+    margin: auto;
+    width: 1100px;
+    background: cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+.fa-star{
+    font-size: 40px;
+}
+h2{
+    color: goldenrod;
+}
+.container1{
+    width: 500px;
+    /*background: darkseagreen;*/
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container2{
+    width: 500px;
+    /*background: peachpuff;*/
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.web-designing{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icon-1{
+    padding: 10px 10px 10px 10px;
+}
+.descr-web-designing{
+    padding: 10px 10px 10px 10px;
+}
+
+.conversion-services{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icon-2{
+    padding: 10px 10px 10px 10px;
+}
+.descr-conversion-services{
+    padding: 10px 10px 10px 10px;
+}
+.logo{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icon-3{
+    padding: 10px 10px 10px 10px;
+}
+.descr-logo{
+    padding: 10px 10px 10px 10px;
+}
+.web-development{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icon-4{
+    padding: 10px 10px 10px 10px;
+}
+.descr-web-development{
+    padding: 10px 10px 10px 10px;
+}
+
+.wordPressDevelopment{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icon-5{
+    padding: 10px 10px 10px 10px;
+}
+.descr-wordPressDevelopment{
+    padding: 10px 10px 10px 10px;
+}
+
+.social{
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icon-6{
+    padding: 10px 10px 10px 10px;
+}
+.descr-social{
+    padding: 10px 10px 10px 10px;
+}
