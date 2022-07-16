@@ -1,0 +1,149 @@
+.father{
+    margin: auto ;
+    border: 2px solid grey;
+    border-radius: 10px;
+    width: 1000px;
+    height: 900px;
+    display: flex ;
+    flex-direction: column;
+}
+/*-------------------------------------------------*/
+.a{
+    background: gainsboro;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    margin: 10px;
+    height: 25%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b-f{
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 0px;
+    height: 75%;
+
+    display: flex;
+    gap: 10px;
+}
+/*-------------------------------------------------*/
+.b-e{
+    box-sizing: border-box;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    width: 75%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.f{
+    background: gainsboro;
+    box-sizing: border-box;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    width: 25%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*-------------------------------------------------*/
+.b{
+    background: gainsboro;
+    box-sizing: border-box;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    width: 100%;
+    height: 50%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c-e{
+    box-sizing: border-box;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    width: 100%;
+    height: 50%;
+
+    display: flex;
+    justify-content: space-between;
+}
+/*-------------------------------------------------*/
+.c{
+    background: gainsboro;
+    box-sizing: border-box;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    width: 33%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d{
+    background: gainsboro;
+    box-sizing: border-box;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    width: 33%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.e{
+    background: gainsboro;
+    box-sizing: border-box;
+    /*border: 2px solid grey;*/
+    border-radius: 10px;
+    width: 33%;
+    height: 100%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*-------------------------------------------------*/
+/*-----------------@MEDIA---------------------------*/
+/*-------------------------------------------------*/
+
+@media screen and (max-width: 1010px){
+    .father{
+        width: 100%;
+    }
+    .a{
+        height: 20%;
+        flex-direction: column;
+    }
+
+    .b-f{
+        height: 85%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .b-e{
+        width: 100%;
+    }
+    .f{
+        width: 100%;
+        height: 20%;
+
+    }
+    .b{
+        height: 75%;
+    }
+
+}
